@@ -1,0 +1,1 @@
+This is my personal portfolio website where I showcase my skills in web development, programming projects, and professional experience. It serves as a digital resume and a platform to demonstrate my work in HTML, CSS, JavaScript, and other technologies.
